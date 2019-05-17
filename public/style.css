@@ -1,0 +1,37 @@
+body{
+    background-color: red;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.col-md-6.offset-md-3.logpage {
+    background-color: #00000036;
+    margin-top: 50px;
+    padding: 25px;
+}
+
+.col-md-6.offset-md-3.logpage input, 
+.col-md-6.offset-md-3.logpage select{
+    margin-bottom: 2px;
+}
+
+.doc{
+    width: 1100px;
+    height: 500px;
+    border: 1px solid transparent;
+    
+}
+
+form.my_form {
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.my_form input{
+    margin-bottom: 10px;
+}
